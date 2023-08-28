@@ -5,8 +5,6 @@ class HelloWorld {
 
         System.out.println("Hello, Worlds india!"); 
 
-        System.out.println("Hello india!"); 
-
-        
+        System.out.println("Hello india!");     
     }
 }
